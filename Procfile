@@ -1,1 +1,1 @@
-web: cr460-lab1 server
+web: CR460-H2017test1 server
