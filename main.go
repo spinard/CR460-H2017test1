@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/mitchellh/cli"
-	"github.com/patricklecuyer/cr460-lab1/cmd"
+	"github.com/spinard/CR460-H2017test1/cmd"
 )
 
 func main() {
